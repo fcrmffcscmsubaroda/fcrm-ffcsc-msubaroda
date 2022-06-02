@@ -200,6 +200,9 @@ h6 {
     margin: 0 15px 0 0;
     padding: 6px 18px;
   }
+  .memberMargin{
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width: 370px) {
@@ -1471,6 +1474,7 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  
 }
 
 .team .member .social {
